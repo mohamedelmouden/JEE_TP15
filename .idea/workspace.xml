@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bdff6e9-c1b4-481b-94a7-22e54a07c078" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../IHM/TP1 IHM/LABiHM/LABiHM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IHM/TP1 IHM/tp a rendre/tp a rendre.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IHM/cours IHM/coursIHM/coursIHM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IHM/exerice3/exerice3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IHM/lab1IHM/lab1IHM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IHM/lab3/lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE_TP11/.idea/JEE_TP11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE_TP11/demonstration/src/main/java/fstg/elmouden/demonstration/config/DatabaseInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE_TP11/demonstration/src/main/java/fstg/elmouden/demonstration/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE_TP11/demonstration/src/main/java/fstg/elmouden/demonstration/controllers/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE_TP11/demonstration/src/main/java/fstg/elmouden/demonstration/entities/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE_TP11/demonstration/src/main/java/fstg/elmouden/demonstration/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE_TP11/demonstration/src/main/java/fstg/elmouden/demonstration/repositories/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE_TP11/demonstration/src/main/java/fstg/elmouden/demonstration/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE_TP11/demonstration/src/main/java/fstg/elmouden/demonstration/services/CustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE_TP11/demonstration/src/main/resources/templates/admin/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE_TP11/demonstration/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE_TP11/demonstration/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/JEE_TP15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../architecture répartie/TPs et labs/JEE/JEE_TP7/.idea/student-management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../architecture répartie/TPs et labs/java avancé/Tp1_JDBC/Tp1_JDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../architecture répartie/TPs et labs/java avancé/tp1_JDBC_cours/tp1_JDBC_cours.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../architecture répartie/projects/projet1/gestionDesAbsence/gestionDesAbsence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../architecture répartie/projects/projet1/project 4 claude/project 4 claude.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../architecture répartie/projects/projet1/project_java_4/project_java_4.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="3BbSZUaICPf9ZmM9B65EAAi5soB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DemoApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mohamed EL MOUDEN\Desktop\JEE_TP15\demo" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bdff6e9-c1b4-481b-94a7-22e54a07c078" name="Changes" comment="" />
+      <created>1774756335717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774756335717</updated>
+    </task>
+    <servers />
+  </component>
+</project>

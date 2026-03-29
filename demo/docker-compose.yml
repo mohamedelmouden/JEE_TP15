@@ -1,0 +1,49 @@
+services:
+
+  mysql-tp15elmouden:
+    image: mysql:8.0
+    container_name: mysql-tp15elmouden
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root1234
+      MYSQL_DATABASE: jeeTp15
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysql-data-tp15elmouden:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-proot1234"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  springboot-tp15elmouden:
+    image: fst/tp15elmouden:1.0
+    container_name: springboot-tp15elmouden
+    depends_on:
+      mysql-tp15elmouden:
+        condition: service_healthy
+    environment:
+      - SPRING_DATASOURCE_URL=jdbc:mysql://mysql-tp15elmouden:3306/jeeTp15?createDatabaseIfNotExist=true
+      - SPRING_DATASOURCE_USERNAME=root
+      - SPRING_DATASOURCE_PASSWORD=root1234
+      - SPRING_JPA_HIBERNATE_DDL_AUTO=update
+      - SERVER_PORT=8087
+    ports:
+      - "8087:8087"
+
+  phpmyadmin-tp15elmouden:
+    image: phpmyadmin/phpmyadmin
+    container_name: phpmyadmin-tp15elmouden
+    depends_on:
+      mysql-tp15elmouden:
+        condition: service_healthy
+    environment:
+      PMA_HOST: mysql-tp15elmouden
+      PMA_PORT: 3306
+      MYSQL_ROOT_PASSWORD: root1234
+    ports:
+      - "8088:80"
+
+volumes:
+  mysql-data-tp15elmouden:
