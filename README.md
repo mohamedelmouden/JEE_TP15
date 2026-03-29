@@ -319,25 +319,11 @@ Elle est visible dans phpMyAdmin à l'adresse `localhost:8088` :
 ![Maven](https://img.shields.io/badge/Maven-3.x-red?logo=apachemaven)
 
 ---
-### terminal Docker : 
-<img width="960" height="540" alt="Screenshot 2026-03-29 051512" src="https://github.com/user-attachments/assets/fe2f6901-b1cf-4294-87f9-e49a22b571e3" />
 
-<img width="958" height="475" alt="Screenshot 2026-03-29 051605" src="https://github.com/user-attachments/assets/188871ff-6bc5-4df5-9f2e-45934f87588b" />
-
-<img width="960" height="540" alt="Screenshot 2026-03-29 051650" src="https://github.com/user-attachments/assets/e4afa4bf-c97b-4d73-b7fc-261c6b36a40b" />
-
-<img width="766" height="50" alt="Screenshot 2026-03-29 052052" src="https://github.com/user-attachments/assets/1c118640-6215-4f48-9902-a8e4c15584ba" />
-
-<img width="788" height="107" alt="Screenshot 2026-03-29 053134" src="https://github.com/user-attachments/assets/5baa044f-66b2-45c8-939d-3e082df71843" />
-
-<img width="901" height="109" alt="Screenshot 2026-03-29 054340" src="https://github.com/user-attachments/assets/0516af99-ece7-46c1-ba16-a82350e83b40" />
-<img width="458" height="89" alt="Screenshot 2026-03-29 055636" src="https://github.com/user-attachments/assets/63aae19b-e597-407a-8bca-c87f67e5c2a7" />
-<img width="913" height="114" alt="Screenshot 2026-03-29 055734" src="https://github.com/user-attachments/assets/66090675-71e8-4747-9d4e-ca08c89366c0" />
 
 ### localhost:8087 :
 <img width="960" height="540" alt="Screenshot 2026-03-29 055816" src="https://github.com/user-attachments/assets/64b40cd1-c7b5-4b0c-b6ee-cb02732dcb45" />
-### docker compose down : 
-<img width="490" height="89" alt="Screenshot 2026-03-29 060101" src="https://github.com/user-attachments/assets/55f0dc72-46f9-4e82-a47a-a84b989457aa" />
+
 ### phpmyadmin / localhost:8088
 <img width="960" height="540" alt="Screenshot 2026-03-29 060701" src="https://github.com/user-attachments/assets/c8277a8e-74e2-49fa-ac98-f19e13b1beef" />
 <img width="960" height="540" alt="Screenshot 2026-03-29 060757" src="https://github.com/user-attachments/assets/8d5e662b-2b85-48c4-9aef-1ae631ca38f9" />
